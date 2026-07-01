@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#FAF6F2" stroke="#c87a53" stroke-width="6"/>
+  <!-- Elegant stylised scissors vector -->
+  <g stroke="#c87a53" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left Blade -->
+    <path d="M 32 32 C 32 25, 42 25, 42 32 C 42 38, 32 40, 48 50 L 68 70"/>
+    <!-- Right Blade -->
+    <path d="M 68 32 C 68 25, 58 25, 58 32 C 58 38, 68 40, 52 50 L 32 70"/>
+    <!-- Pin pivot -->
+    <circle cx="50" cy="51.5" r="3" fill="#c87a53"/>
+  </g>
+  <!-- Decorative small spa flower petaling at bottom -->
+  <path d="M 46 80 C 48 76, 52 76, 54 80 C 56 84, 44 84, 46 80 Z" fill="#c87a53"/>
+  <path d="M 38 76 C 42 74, 44 78, 41 81 C 38 84, 35 78, 38 76 Z" fill="#c87a53"/>
+  <path d="M 62 76 C 58 74, 56 78, 59 81 C 62 84, 65 78, 62 76 Z" fill="#c87a53"/>
+</svg>
